@@ -1,6 +1,6 @@
 print("--------------- Welcome ---------------")
 username = "Musical"
-password = "Musician"
+password = "Music"
 usernameInput = input("Username :")
 passwordInput = input("Password :")
 if username == usernameInput and password == passwordInput:
